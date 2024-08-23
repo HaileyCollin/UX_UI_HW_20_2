@@ -12,7 +12,7 @@
 }
 
 .container-fluid a img {
-    filter: brightness(0) invert(1); /* Turns the image white */
+    filter: brightness(0) invert(1);
 }
 
 .nav-link {
