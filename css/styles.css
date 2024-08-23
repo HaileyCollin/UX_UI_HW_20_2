@@ -1,0 +1,157 @@
+.container-fluid {
+    background-color: rgb(115,35,31)
+}
+
+.container-fluid img {
+    height: 100px;
+    width: 100px;
+}
+
+.nav-link {
+    color: white;
+    font-family: "Advent Pro";
+    font-size: 26px;
+    padding: 20px;
+}
+
+.jumbotron-image img {
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.lead {
+   font-family: "Anonymous Pro";
+   font-size: 32px;
+   padding: 10px;
+}
+
+.display-4 {
+    font-family: "Advent Pro";
+    font-weight: bold;
+    font-size: 64px;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 48px;
+    font-family: "Advent Pro";
+    font-weight: bold;
+    padding: 10px;
+}
+
+p {
+    font-size: 32px;
+    font-family: "Anonymous Pro";
+    padding: 10px;
+    font-weight: normal;
+}
+
+.headingArea {
+    font-size: 64px;
+    padding: 10px;
+    font-weight: bold;
+    font-family: "Advent Pro";
+}
+
+.list-one, .list-two, .list-three {
+    font-family: "Anonymous Pro";
+    font-size: 32px;
+    padding: 10px;
+    font-weight: normal;
+}
+
+.card.mb-3, .card.mb-4, .card.mb-5, .card.mb-6, .card.mb-7, .card.mb-8, .card.mb-9, .card.mb-10, .card.mb-11 {
+    border-radius: 16px;
+    border-width: 2px;
+ }
+
+.card.mb-3 img {
+    height: 300px;
+    width: 400px;
+    display: flex;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.card.mb-4 img {
+    height: 250px;
+    width: 500px;
+    display: flex;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.card.mb-5 img {
+    height: 250px;
+    width: 250px;
+    display: flex;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.card.mb-6 img {
+    height: 250px;
+    width: 250px;
+    display: flex;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.card.mb-7 img {
+    height: 400px;
+    width: 800px;
+    display: flex;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.card.mb-8 img {
+    height: 400px;
+    width: 800px;
+    display: flex;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.card.mb-9 img {
+    height: 400px;
+    width: 800px;
+    display: flex;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.lofi-desktop img {
+    height: 1000px;
+    display: flex;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.lofi-mobile img {
+    height: 300px;
+    display: flex;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.hifi-desktop img {
+    height: 1000px;
+    display: flex;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.hifi-mobile img {
+    height: 500px;
+    display: flex;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+a {
+    color: rgb(115,35,31);
+}
