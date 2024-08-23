@@ -7,6 +7,14 @@
     width: 100px;
 }
 
+.container-fluid a img {
+    text-decoration: none;
+}
+
+.container-fluid a img {
+    filter: brightness(0) invert(1); /* Turns the image white */
+}
+
 .nav-link {
     color: white;
     font-family: "Advent Pro";
@@ -154,4 +162,5 @@ p {
 
 a {
     color: rgb(115,35,31);
+    text-decoration: none;
 }
